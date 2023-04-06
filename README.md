@@ -13,4 +13,9 @@
 | 9 | [TDDI Model Service](https://github.com/Teknofest-Nane-Limon/tddi-model-service) | [TDDI Model Service](https://github.com/Teknofest-Nane-Limon/tddi-model-service), modelin deployment (dağıtım) işlemleri için oluşturulmuş bir Flask API servisidir. Bu servis, oluşturulan modelin deploy edilmesiyle birlikte, modeli kullanarak tahmin yapabilme imkanı sağlar. Yani, bu servis üzerinden gelen istekler doğrultusunda, modelin tahmin yeteneği etkinleştirilerek, belirtilen girdilerle ilgili tahminler üretilir. 
 
 
+---
+
+## İçerik Analizi Uygulamasının Yaşam Döngüsü 
+
+![App Diagram](https://user-images.githubusercontent.com/83168207/230263726-4862b2a5-dca4-4981-a41d-41078f2cfc37.jpeg)
 
