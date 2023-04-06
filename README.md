@@ -14,8 +14,3 @@
 
 
 ---
-
-## İçerik Analizi Uygulamasının Yaşam Döngüsü 
-
-![App Diagram](https://user-images.githubusercontent.com/83168207/230263726-4862b2a5-dca4-4981-a41d-41078f2cfc37.jpeg)
-
