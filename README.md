@@ -1,5 +1,9 @@
 <h1 align = 'Center'>Nane&Limon 🐍 Teknofest 2023 TDDİ | Introduce</h1>
 
+Kullanılan model githubta paylaşılmıştır: [link için tıklayın.](https://huggingface.co/nanelimon/bert-base-insult-model/tree/main)
+Kullanılan veri setleri huggingface te paylaşılmıştır: [link için tıklayın.](https://huggingface.co/datasets/nanelimon/insult-dataset)
+
+
 | No | Aşamalar | Açıklama |
 | --- | --- | --- |
 | 1 | [Model Baseline](https://github.com/Teknofest-Nane-Limon/model-baseline-insult) | [Model Baseline](https://github.com/Teknofest-Nane-Limon/model-baseline-insult/blob/main/baseline_model.ipynb), veri setinin temel özelliklerine göre oluşturulan ve kullanılan ilk modeldir. Bu model, daha sonra geliştirilen diğer modellerin performanslarının ölçülmesi ve karşılaştırılması için referans olarak kullanılmıştır. Model Baseline üzerinde yapılan deneylerde, veri seti üzerindeki temel özelliklerin ve veri ön işleme adımlarının etkileri incelenmiştir. Bu çalışmalar sonucunda, en iyi performans elde edebilmek için veri ön işleme adımlarının belirli bir sırayla uygulanması ve belirli parametre değerlerinin seçilmesi gerektiği belirlenmiştir. Model Baseline, diğer modellerin geliştirilmesi sürecinde bir referans noktası olarak kullanılarak, çalışmanın başarısına önemli katkılar sağlamıştır.| 
