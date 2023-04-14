@@ -1,7 +1,8 @@
 <h1 align = 'Center'>Nane&Limon 🐍 Teknofest 2023 TDDİ | Introduce</h1>
 
-Kullanılan model githubta paylaşılmıştır: [link için tıklayın.](https://huggingface.co/nanelimon/bert-base-insult-model/tree/main)
-Kullanılan veri setleri huggingface te paylaşılmıştır: [link için tıklayın.](https://huggingface.co/datasets/nanelimon/insult-dataset)
+- Kullanılan model githubta paylaşılmıştır: [link için tıklayın.](https://huggingface.co/nanelimon/bert-base-insult-model/tree/main)
+- Kullanılan veri setleri huggingface te paylaşılmıştır: [link için tıklayın.](https://huggingface.co/datasets/nanelimon/insult-dataset)
+- **Proje Sunumumuza [buradan](https://www.canva.com/design/DAFY4qojNxE/6cArTkFzRoPnZ8tsQW15ug/watch?utm_content=DAFY4qojNxE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) ulaşabilirsiniz.**
 
 
 | No | Aşamalar | Açıklama |
