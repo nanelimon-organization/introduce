@@ -2,8 +2,6 @@
 
 - Kullanılan model, huggingface üzerinden paylaşılmıştır. Modelin huggingface adresi, [buradan](https://huggingface.co/nanelimon/bert-base-insult-model/tree/main) erişilebilir.
 - Kullanılan veri kümesi, huggingface üzerinden paylaşılmıştır. Veri kümesinin huggingface adresi, [buradan](https://huggingface.co/datasets/nanelimon/insult-dataset) erişilebilir.
-- **Proje sunumu, Canva adlı çevrimiçi tasarım aracı kullanılarak hazırlanmıştır. Sunuma** [buradan](https://www.canva.com/design/DAFY4qojNxE/6cArTkFzRoPnZ8tsQW15ug/watch?utm_content=DAFY4qojNxE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) **erişilebilir.**
-
 
 | No | Aşamalar | Açıklama |
 | --- | --- | --- |
